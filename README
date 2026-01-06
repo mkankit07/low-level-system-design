@@ -1,0 +1,5 @@
+## System Design – JavaScript Implementations
+
+This repository contains small, focused implementations of classic system-design style problems in JavaScript. Each subfolder is a self-contained module you can run and extend for practice or discussion.
+
+For the most up-to-date documentation and module descriptions, see [README.MD](README.MD).
